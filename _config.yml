@@ -1,7 +1,7 @@
 name: ItStartsWithASpark
 favicon: null
-layout_spectrum: 0.5741098611615598
-typography_spectrum: 0.86032
+layout_spectrum: 0.0924
+typography_spectrum: 0.31256
 title: 'A big wave can be formed with even the tiniest of ripples. '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#fefefe'
+    - '#a4a4a4'
+    - '#010101'
+    - '#626262'
+    - '#313131'
   brandStrength: 0.1942752383183688
-  lightness: 0.187882719328627
-  saturation: 0.2122733884025365
+  lightness: 1
+  saturation: 0
   rhythmicContrast: 0.7710110601037741
 purpose: []
